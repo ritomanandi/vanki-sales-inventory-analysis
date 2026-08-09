@@ -1,9 +1,6 @@
 # Reducing Stockouts and Order Hold Losses through Sales Analysis for a Fashion Jewellery Retailer
 
 **BDM Capstone Project — IIT Madras BS Degree Programme**
-
-Author: Ritoma Nandi (23F3001843)
-
 Business: Zane Lifestyle (brand: **Vanki**)
 
 ---
