@@ -74,4 +74,10 @@ This analysis is based on 3 months of data (March–May 2026) from a single smal
 
 ---
 
+## Author
+
+Ritoma Nandi
+
+---
+
 *This project was completed as part of the Business Data Management (BDM) Capstone Project under the IIT Madras BS Degree Programme.*
