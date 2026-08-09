@@ -2,7 +2,7 @@
 
 **BDM Capstone Project — IIT Madras BS Degree Programme**
 Author: Ritoma Nandi (23F3001843)
-Duration: March – May 2026 | Business: Zane Lifestyle (brand: **Vanki**)
+Business: Zane Lifestyle (brand: **Vanki**)
 
 ---
 
