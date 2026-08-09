@@ -1,6 +1,6 @@
 # Reducing Stockouts and Order Hold Losses through Sales Analysis for a Fashion Jewellery Retailer
 
-**BDM Capstone Project — IIT Madras BS Degree Programme**
+**BDM Capstone Project — IIT Madras BS Degree Programme**  
 Business: Zane Lifestyle (brand: **Vanki**)
 
 ---
